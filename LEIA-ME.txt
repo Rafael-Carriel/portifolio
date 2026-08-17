@@ -1,0 +1,13 @@
+PORTFÓLIO DE RAFAEL CARRIEL
+
+Para abrir:
+1. Entre nesta pasta.
+2. Clique duas vezes em index.html.
+
+Arquivos principais:
+- index.html: conteúdo e estrutura da página.
+- styles.css: aparência, responsividade e animações.
+- script.js: interações dos sistemas e da galeria.
+- assets/: imagens dos projetos.
+
+O projeto é independente e não precisa ser instalado para abrir no navegador.

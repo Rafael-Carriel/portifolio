@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "portfoleo-pessoal"
+  },
+  "targets": {
+    "portfoleo-pessoal": {
+      "hosting": {
+        "portfolio": [
+          "portfolio-rafael-carriel"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
