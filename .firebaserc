@@ -1,12 +1,19 @@
 {
   "projects": {
-    "default": "portfoleo-pessoal"
+    "default": "rafael-carriel-portfolio-2026"
   },
   "targets": {
     "portfoleo-pessoal": {
       "hosting": {
         "portfolio": [
           "portfolio-rafael-carriel"
+        ]
+      }
+    },
+    "rafael-carriel-portfolio-2026": {
+      "hosting": {
+        "portfolio": [
+          "rafael-carriel-portfolio-2026"
         ]
       }
     }
